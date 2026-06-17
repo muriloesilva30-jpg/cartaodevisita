@@ -1,6 +1,6 @@
 h1, h2{
     color:rgb(255, 255, 255);
-    background-color: rgb(7, 7, 88);
+    background-color: rgba(7, 7, 88, 0.61);
 }
 img{
     width: 200px;
